@@ -1,4 +1,4 @@
-# factiry test for line  sensor
+# Factory test for line  sensor
 
 ## ESP32
 
